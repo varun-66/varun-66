@@ -1,0 +1,9 @@
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/varun66/"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/varun-66"
