@@ -2,7 +2,7 @@
 
 <html>
 
-<img src="https://camo.githubusercontent.com/ccc7cc7d81540edaaeef02a561808f4fa0e4006d/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="50" height="50">
+<img src="https://camo.githubusercontent.com/ccc7cc7d81540edaaeef02a561808f4fa0e4006d/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="50%" height="50%">
 
 <b> You can find me on </b><br>
 <p style="margin:auto;">
