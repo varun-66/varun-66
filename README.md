@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 this is Varun Sharma, an enthusiastic competitive programmer and web developer.
 
 <!--
 **varun-66/varun-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
