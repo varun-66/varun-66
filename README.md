@@ -5,7 +5,7 @@
 
 <b> You can find me on </b><br>
 <a href="mailto::varun156.sharma@gmail.com"><img src="http://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png" alt="gmail" style="width:42px;height:42px;"></a></img>
-<a href="https://www.linkedin.com/in/varun66/"><img src="https://www.freepik.com/free-icon/linkedin-logo_779994.htm" alt="LinkedIn" style="width:42px;height:42px;"></a></img>
+<a href="https://www.linkedin.com/in/varun66/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="LinkedIn" style="width:42px;height:42px;"></a></img>
 
 
 
