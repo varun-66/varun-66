@@ -4,7 +4,7 @@
 <img src="https://camo.githubusercontent.com/ccc7cc7d81540edaaeef02a561808f4fa0e4006d/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966">
 
 <b> You can find me on </b><br>
-<img src="http://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png" alt="gmail" style="width:2px;"><a href="mailto::varun156.sharma@gmail.com"></a></img>
+<a href="mailto::varun156.sharma@gmail.com"><img src="http://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png" alt="gmail" style="width:0.2px;"></a></img>
 
 
 
