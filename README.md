@@ -4,7 +4,7 @@
 <img src="https://camo.githubusercontent.com/ccc7cc7d81540edaaeef02a561808f4fa0e4006d/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966">
 
 <b> You can find me on </b>
-<img src="https://camo.githubusercontent.com/779bb11……706d2f7…" alt="gmail" color="red" height="25" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width:100%;"><a href="mailto::varun156.sharma@gmail.com"></a>
+<img src="" alt="gmail" color="red" height="25" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width:100%;"><a href="mailto::varun156.sharma@gmail.com"></a></img>
 
 
 
