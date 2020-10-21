@@ -1,4 +1,4 @@
-### Hola 👋 this is Varun Sharma, a web developer and competitive programmer.
+### Hola 👋
 
 <html>
 
